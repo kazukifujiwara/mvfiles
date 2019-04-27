@@ -1,0 +1,6 @@
+#ファイル,移動先
+./*_dir1_*.txt,./dir1/
+*_dir2_*.txt,./dir2
+#comment
+./*_dir3_*.txt,./dir2/dir3/
+./*_xxx_*.txt,./dir1/
